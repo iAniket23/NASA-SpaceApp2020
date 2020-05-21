@@ -5,9 +5,9 @@ NASA Space App Challenge Covid19 (2020)
 
 
 ***CONTRIBUTORS***  
--Aniket  
--Ray    
--James  
--Nikunj  
+- Aniket  
+- Ray    
+- James  
+- Nikunj  
 
 
