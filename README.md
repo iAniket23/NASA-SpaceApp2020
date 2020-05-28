@@ -1,4 +1,4 @@
-# Night Lamp (NASA-SpaceApp2020)
+# Pilot Light (NASA-SpaceApp2020)
 Night lamp - NASA Space App Challenge Covid19 (2020)  
 
 ***ABOUT***  
