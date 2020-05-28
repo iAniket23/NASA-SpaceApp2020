@@ -7,7 +7,7 @@ Real-time analysis of North American night time satellite images to track the hu
 
 
 ***CONTRIBUTORS***  
-- Aniket    
+- Aniket -  Graphic Design      
 - James  
 - Nikunj  
 
