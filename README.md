@@ -7,9 +7,11 @@ Real-time analysis of North American night time satellite images to track the hu
 
 
 ***CONTRIBUTORS***  
-- Aniket -  Graphic Design      
+- Aniket      
 - James  
 - Nikunj  
+- Guillaume  
+- Laura
 
 ***LICENSE***  
 The rules for copy and distributing this project licence are outlined in the licence.txt file.  
