@@ -4,13 +4,11 @@ import dash_html_components as html
 import plotly.graph_objs as go
 import pandas as pd
 
-external_stylesheet = "https://codepen.io/chriddyp/pen/bWLwgP.css"
+app = dash.Dash(__name__)
 
 df = pd.read_csv('https://ndownloader.figsh.com/files/8261349')
 
 countries = df['country'].unique()
-
-app = dash.Dash(__name__, external_stylesheets=external_stylesheet)
 
 app.layout = html.Div([
 
