@@ -84,3 +84,6 @@ def update_graph(expectancy, country):
             hovermode='closest'
         )
     }
+
+if __name__ == '__main__':
+    app.run_server(debug=False)
