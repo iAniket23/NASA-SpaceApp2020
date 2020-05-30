@@ -7,11 +7,11 @@ Real-time analysis of North American night time satellite images to track the hu
 
 
 ***CONTRIBUTORS***  
-- Aniket      
-- James  
-- Nikunj  
-- Guillaume  
-- Laura
+- Aniket Mishra     
+- James Schaefer-Pham    
+- Nikunj Aggarwal  
+- Guillaume Landry  
+- Laura Yang  
 
 ***LICENSE***  
 The rules for copy and distributing this project licence are outlined in the licence.txt file.  
