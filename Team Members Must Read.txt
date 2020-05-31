@@ -21,8 +21,7 @@ SUB OBJECTIVES:
 - Making website displaying these graph in real time 
 - Making a Presentation Video to explain our Project 
 - Making Project Logo and banner
-- What do you guys think ? @everyone
-- Are we missing something and Do you think it's achievable or not?
+
 
 _______________________________________________________________________________________________________________________
 WEBSITE CONTEXTUAL MENU:
