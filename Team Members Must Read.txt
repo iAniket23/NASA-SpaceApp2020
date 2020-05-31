@@ -25,6 +25,16 @@ SUB OBJECTIVES:
 - Are we missing something and Do you think it's achievable or not?
 
 _______________________________________________________________________________________________________________________
+WEBSITE CONTEXTUAL MENU:
+
+	Presentation NASA Space Apps
+	Presentation Pilot Light
+	Timelapse of night
+	Graphs / analysis
+	News about using night light imagery
+	Learn more (Twitter / Github)
+
+_______________________________________________________________________________________________________________________
 
 Where We Gathered Data:
 
