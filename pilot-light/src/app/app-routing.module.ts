@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { TimelapseComponent } from './timelapse/timelapse.component';
-import { AppComponent } from './app.component';
+import { MainPageComponent } from './main-page/main-page.component';
 
 const routes: Routes = [
-  { path: 'app-timelapse', component: TimelapseComponent, pathMatch: 'full'},
-  { path: 'app-main-page', component: AppComponent, pathMatch: 'full'}
+  { path: 'timelapse', component: TimelapseComponent},
+  { path: 'mainpage', component: MainPageComponent}
 ];
 
 @NgModule({
