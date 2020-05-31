@@ -23,4 +23,5 @@ pd.HDFStore.keys()
 
 
 if __name__ == '__main__':
-    print(hdf)
+    #print(hdf)
+    hdf.head()

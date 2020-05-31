@@ -6,10 +6,13 @@ import pandas as pd
 
 app = dash.Dash(__name__)
 
-df = pd.read_hdf('./data/VNP46A1.A2020017.h00v08.001.2020053010251.h5')
+#df = pd.read_hdf('./data/dataset.h5')
+hdf = pd.HDFStore('./data/dataset.h5')
+hdf.keys()
+#df1 = hdf.get('/DF1')
 
 app.layout = html.Div([
-    df.head()
+    #df1.head()
 ])
 
 if __name__ == '__main__':
