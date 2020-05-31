@@ -26,6 +26,17 @@ SUB OBJECTIVES:
 
 _______________________________________________________________________________________________________________________
 
+Where We Gathered Data:
+
+NOAA's CLASS: https://www.bou.class.noaa.gov/saa/products/search?sub_id=0&datatype_family=VIIRS_SDR
+NASA'S Black Marble: https://blackmarble.gsfc.nasa.gov/
+LAADS DAAC: https://ladsweb.modaps.eosdis.nasa.gov/search/
+VNP46A1 data from VIIRS sensor onboard NPP Satellite: https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/VNP46A1/
+NASA's Worldview: https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/VNP46A1/
+
+
+_______________________________________________________________________________________________________________________
+
 For Text Making and Outreach:
 
 FROM: https://wattsupwiththat.com/2017/11/16/nasas-black-marble-project-shows-the-growth-of-energy-at-night-on-earth/
