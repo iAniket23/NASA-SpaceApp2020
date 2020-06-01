@@ -1,15 +1,26 @@
-<head>
-    <script src='https://api.mapbox.com/mapbox-gl-js/v1.10.1/mapbox-gl.js'></script>
-    <link href='https://api.mapbox.com/mapbox-gl-js/v1.10.1/mapbox-gl.css' rel='stylesheet' />
-</head>
-
-<body><div id='map' style='width: 400px; height: 300px;'></div>
-    <script>
-        mapboxgl.accessToken = 'pk.eyJ1IjoiZ3VpbGxhdW1lbGFuZHJ5IiwiYSI6ImNrOGpsaDQwbDBpNXAzZm12dWF5MTlpMzEifQ.8SaHyf8Dz2NG5G1czLGytA';
-            var map = new mapboxgl.Map({
-                container: 'map',
-                style: 'mapbox://styles/mapbox/streets-v9'
-            });
-    </script>
-</body>
-
+<ion-header>
+    <ion-item>
+      <ion-button routerLink="/mainpage" routerLinkActive="active" size="large" color="dark">Pilot Light</ion-button>
+      <ion-button routerLink="/timelapse" routerLinkActive="active" size="large" color="dark">Night Sky Timelapse</ion-button>
+      <ion-button routerLink="/dashboard" routerLinkActive="active" size="large" color="dark">Dashboard</ion-button>
+    </ion-item>
+    <ion-item class="card-container">
+        <a class="circle-link" title="Our Twitter!" href="https://twitter.com/light_apps?s=20">
+          <ion-icon name="logo-twitter"></ion-icon>
+        </a>
+        <a class="circle-link" title="Our GitHub!" href="https://github.com/iAniket23/Pilot-Light-NASAspaceApp2020">
+          <ion-icon name="logo-github"></ion-icon>
+        </a>
+        <a> Join us and pilot the light! </a>
+    </ion-item>
+</ion-header>
+<ion-content>
+    <ion-card>
+        <ion-title>
+            Night sky Timelapse from VIIRS DNB sensor when Social Distancing measures began in 2020
+        </ion-title>
+    </ion-card>
+</ion-content>
+<ion-card>
+    <ion-img src="./assets/nasa-worldview-n-a.gif"></ion-img>
+</ion-card>
