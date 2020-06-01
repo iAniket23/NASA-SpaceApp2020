@@ -1,0 +1,3 @@
+[submodule "pilot-light-web"]
+	path = pilot-light-web
+	url = https://github.com/GuillaumeLandry/pilot-light-web.git
