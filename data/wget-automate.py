@@ -15,7 +15,7 @@ import os, urllib, urlencode
 # of march 10th to may 10th.
 
 # That my personnal key I got from LAADS DAAC registration
-API_PERSONNAL_KEY = "F8A501F6-A343-11EA-89D2-F2D9C1911D4B"
+API_PERSONNAL_KEY = "YOUR_API_KEY"
 
 def downloadfiles():
     subfolder = int(70)
