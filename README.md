@@ -7,7 +7,7 @@ Real-time analysis of North American night time satellite images to track the hu
 ***WEBSITE***  
 This is the website we used to display data for our project submission. It has a link to our Twitter also, and to the Nasa Space Apps official website. See you there!
 
-Website: https://pilotlight.000webhost.com 
+Website: https://pilotlight.000webhostapps.com 
 
 Nasa Space Apps Offcial Submission: https://covid19.spaceappschallenge.org/challenges/covid-challenges/light-path/teams/pilot-light/project
 
